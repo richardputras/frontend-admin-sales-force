@@ -1,0 +1,317 @@
+[
+  {
+    "name": "activity",
+    "path": "/activity",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\activity\\\\index.vue",
+    "chunkName": "pages/activity/index",
+    "_name": "_10f24626"
+  },
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\admin\\\\index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_b19dbb20"
+  },
+  {
+    "name": "calculator",
+    "path": "/calculator",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\calculator\\\\index.vue",
+    "chunkName": "pages/calculator/index",
+    "_name": "_f32eacda"
+  },
+  {
+    "name": "contactperson",
+    "path": "/contactperson",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\contactperson\\\\index.vue",
+    "chunkName": "pages/contactperson/index",
+    "_name": "_6dd5f4ec"
+  },
+  {
+    "name": "customer",
+    "path": "/customer",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\customer\\\\index.vue",
+    "chunkName": "pages/customer/index",
+    "_name": "_7bdc1c12"
+  },
+  {
+    "name": "division",
+    "path": "/division",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\division\\\\index.vue",
+    "chunkName": "pages/division/index",
+    "_name": "_a8260c70"
+  },
+  {
+    "name": "employee",
+    "path": "/employee",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\employee\\\\index.vue",
+    "chunkName": "pages/employee/index",
+    "_name": "_6cab2927"
+  },
+  {
+    "name": "forgetPassword",
+    "path": "/forgetPassword",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\forgetPassword.vue",
+    "chunkName": "pages/forgetPassword",
+    "_name": "_63d89f35"
+  },
+  {
+    "name": "glossary",
+    "path": "/glossary",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\glossary\\\\index.vue",
+    "chunkName": "pages/glossary/index",
+    "_name": "_0eec3fb7"
+  },
+  {
+    "name": "hrd",
+    "path": "/hrd",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\hrd\\\\index.vue",
+    "chunkName": "pages/hrd/index",
+    "_name": "_da6324f6"
+  },
+  {
+    "name": "item",
+    "path": "/item",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\item\\\\index.vue",
+    "chunkName": "pages/item/index",
+    "_name": "_73803dbc"
+  },
+  {
+    "name": "kodeOtp",
+    "path": "/kodeOtp",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\kodeOtp.vue",
+    "chunkName": "pages/kodeOtp",
+    "_name": "_53df7c49"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_2c9efbd4"
+  },
+  {
+    "name": "newPassword",
+    "path": "/newPassword",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\newPassword.vue",
+    "chunkName": "pages/newPassword",
+    "_name": "_4d7bb6c4"
+  },
+  {
+    "name": "newPasswordSuccess",
+    "path": "/newPasswordSuccess",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\newPasswordSuccess.vue",
+    "chunkName": "pages/newPasswordSuccess",
+    "_name": "_5d773c35"
+  },
+  {
+    "name": "procedure",
+    "path": "/procedure",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\procedure\\\\index.vue",
+    "chunkName": "pages/procedure/index",
+    "_name": "_47e265ec"
+  },
+  {
+    "name": "product_knowledge",
+    "path": "/product_knowledge",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\product_knowledge\\\\index.vue",
+    "chunkName": "pages/product_knowledge/index",
+    "_name": "_38975bb1"
+  },
+  {
+    "name": "roles",
+    "path": "/roles",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\roles\\\\index.vue",
+    "chunkName": "pages/roles/index",
+    "_name": "_08dcc642"
+  },
+  {
+    "name": "school",
+    "path": "/school",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\school\\\\index.vue",
+    "chunkName": "pages/school/index",
+    "_name": "_6d348b61"
+  },
+  {
+    "name": "supplier",
+    "path": "/supplier",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\supplier\\\\index.vue",
+    "chunkName": "pages/supplier/index",
+    "_name": "_e12cd16e"
+  },
+  {
+    "name": "activity-form",
+    "path": "/activity/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\activity\\\\form.vue",
+    "chunkName": "pages/activity/form",
+    "_name": "_47979bc0"
+  },
+  {
+    "name": "candidate-form",
+    "path": "/candidate/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\candidate\\\\form.vue",
+    "chunkName": "pages/candidate/form",
+    "_name": "_56b90f6c"
+  },
+  {
+    "name": "contactperson-form",
+    "path": "/contactperson/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\contactperson\\\\form.vue",
+    "chunkName": "pages/contactperson/form",
+    "_name": "_76c9f63c"
+  },
+  {
+    "name": "customer-form",
+    "path": "/customer/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\customer\\\\form.vue",
+    "chunkName": "pages/customer/form",
+    "_name": "_1377482f"
+  },
+  {
+    "name": "customer-nodes",
+    "path": "/customer/nodes",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\customer\\\\nodes.vue",
+    "chunkName": "pages/customer/nodes",
+    "_name": "_0f02d456"
+  },
+  {
+    "name": "division-form",
+    "path": "/division/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\division\\\\form.vue",
+    "chunkName": "pages/division/form",
+    "_name": "_c1b8fb84"
+  },
+  {
+    "name": "employee-form",
+    "path": "/employee/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\employee\\\\form.vue",
+    "chunkName": "pages/employee/form",
+    "_name": "_42426aff"
+  },
+  {
+    "name": "glossary-form",
+    "path": "/glossary/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\glossary\\\\form.vue",
+    "chunkName": "pages/glossary/form",
+    "_name": "_3f3c426f"
+  },
+  {
+    "name": "hrd-form",
+    "path": "/hrd/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\hrd\\\\form.vue",
+    "chunkName": "pages/hrd/form",
+    "_name": "_b2d3ba3e"
+  },
+  {
+    "name": "item-form",
+    "path": "/item/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\item\\\\form.vue",
+    "chunkName": "pages/item/form",
+    "_name": "_5ced70b8"
+  },
+  {
+    "name": "maintenance-form",
+    "path": "/maintenance/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\maintenance\\\\form.vue",
+    "chunkName": "pages/maintenance/form",
+    "_name": "_647939cc"
+  },
+  {
+    "name": "payroll-form",
+    "path": "/payroll/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\payroll\\\\form.vue",
+    "chunkName": "pages/payroll/form",
+    "_name": "_387f4c2c"
+  },
+  {
+    "name": "product_knowledge-form",
+    "path": "/product_knowledge/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\product_knowledge\\\\form.vue",
+    "chunkName": "pages/product_knowledge/form",
+    "_name": "_7220bf35"
+  },
+  {
+    "name": "school-form",
+    "path": "/school/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\school\\\\form.vue",
+    "chunkName": "pages/school/form",
+    "_name": "_4246d985"
+  },
+  {
+    "name": "supplier-form",
+    "path": "/supplier/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\supplier\\\\form.vue",
+    "chunkName": "pages/supplier/form",
+    "_name": "_1e669ec6"
+  },
+  {
+    "name": "warning-form",
+    "path": "/warning/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\warning\\\\form.vue",
+    "chunkName": "pages/warning/form",
+    "_name": "_0086f5e3"
+  },
+  {
+    "name": "customer-personInCharge-form",
+    "path": "/customer/personInCharge/form",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\customer\\\\personInCharge\\\\form.vue",
+    "chunkName": "pages/customer/personInCharge/form",
+    "_name": "_37f6da46"
+  },
+  {
+    "name": "activity-id",
+    "path": "/activity/:id",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\activity\\\\_id.vue",
+    "chunkName": "pages/activity/_id",
+    "_name": "_36f0cbe4"
+  },
+  {
+    "name": "contactperson-id",
+    "path": "/contactperson/:id",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\contactperson\\\\_id.vue",
+    "chunkName": "pages/contactperson/_id",
+    "_name": "_445ae272"
+  },
+  {
+    "name": "customer-id",
+    "path": "/customer/:id",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\customer\\\\_id.vue",
+    "chunkName": "pages/customer/_id",
+    "_name": "_22dbf3c2"
+  },
+  {
+    "name": "employee-id",
+    "path": "/employee/:id",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\employee\\\\_id.vue",
+    "chunkName": "pages/employee/_id",
+    "_name": "_5b6f494f"
+  },
+  {
+    "name": "hrd-id",
+    "path": "/hrd/:id",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\hrd\\\\_id.vue",
+    "chunkName": "pages/hrd/_id",
+    "_name": "_7fb40d2d"
+  },
+  {
+    "name": "item-id",
+    "path": "/item/:id",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\item\\\\_id.vue",
+    "chunkName": "pages/item/_id",
+    "_name": "_0537c40a"
+  },
+  {
+    "name": "roles-id",
+    "path": "/roles/:id",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\roles\\\\_id.vue",
+    "chunkName": "pages/roles/_id",
+    "_name": "_2e0b712a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\xampp\\\\htdocs\\\\frontend-admin-sales-force\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_704ce456"
+  }
+]

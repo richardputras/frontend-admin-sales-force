@@ -1,0 +1,50 @@
+{
+  "Form": {
+    "description": "Auto imported from components/Form.vue"
+  },
+  "LazyForm": {
+    "description": "Auto imported from components/Form.vue"
+  },
+  "Loading": {
+    "description": "Auto imported from components/Loading.vue"
+  },
+  "LazyLoading": {
+    "description": "Auto imported from components/Loading.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Menubar": {
+    "description": "Auto imported from components/Menubar.vue"
+  },
+  "LazyMenubar": {
+    "description": "Auto imported from components/Menubar.vue"
+  },
+  "Sidebar": {
+    "description": "Auto imported from components/Sidebar.vue"
+  },
+  "LazySidebar": {
+    "description": "Auto imported from components/Sidebar.vue"
+  },
+  "SidebarResources": {
+    "description": "Auto imported from components/SidebarResources.vue"
+  },
+  "LazySidebarResources": {
+    "description": "Auto imported from components/SidebarResources.vue"
+  },
+  "WidgetDummy": {
+    "description": "Auto imported from components/WidgetDummy.vue"
+  },
+  "LazyWidgetDummy": {
+    "description": "Auto imported from components/WidgetDummy.vue"
+  },
+  "DataTable": {
+    "description": "Auto imported from components/datatable/DataTable.vue"
+  },
+  "LazyDataTable": {
+    "description": "Auto imported from components/datatable/DataTable.vue"
+  }
+}
